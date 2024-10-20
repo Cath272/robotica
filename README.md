@@ -1,1 +1,1 @@
-[Link text Here](lab1)
+[Laborator 1](lab1/lab1.md)
